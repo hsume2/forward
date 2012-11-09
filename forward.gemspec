@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'json', '~> 1.4.6'
   gem.add_dependency 'highline', '~> 1.6.1'
-  gem.add_dependency 'net-ssh', '~> 2.4.0'
+  gem.add_dependency 'net-ssh', '~> 2.6.1'
 
   gem.add_development_dependency 'minitest', '~> 3.0.0'
   gem.add_development_dependency 'mocha', '~> 0.11.4'
